@@ -1,0 +1,21 @@
+{
+  "name": "playing-with-node-canvas",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giggio/playing-with-node-canvas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giggio/playing-with-node-canvas/issues"
+  },
+  "homepage": "https://github.com/giggio/playing-with-node-canvas",
+  "dependencies": {
+    "canvas": "^1.1.3"
+  }
+}
